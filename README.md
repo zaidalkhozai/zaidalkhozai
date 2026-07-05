@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/header.png" />
+<img width="100%" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1500&q=80" />
 
 # Zaid Alkhozai
 
