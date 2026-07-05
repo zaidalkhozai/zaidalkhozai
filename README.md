@@ -8,33 +8,35 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+<table align="center">
+  <tr>
 
-<div>
+    <td align="center" width="33%" valign="top">
 
-## 💻 Languages  
+### 💻 Languages  
 <img src="https://skillicons.dev/icons?i=java,dart,js,mysql"/>
 
-</div>
+</td>
 
-<div>
+<td align="center" width="33%" valign="top">
 
-## ⚙️ Frameworks & Technologies  
+### ⚙️ Frameworks & Technologies  
 <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb,git,github,figma,vscode"/>
 
-</div>
+</td>
 
-<div>
+<td align="center" width="33%" valign="top">
 
-## 🧠 Software Engineering  
+### 🧠 Software Engineering  
 <img src="https://img.shields.io/badge/UML-0F172A?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/SDLC-2563EB?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/SRS-1D4ED8?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge"/>
 
-</div>
+</td>
 
-</div>
+  </tr>
+</table>
 
 ---
 
