@@ -6,23 +6,26 @@
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr border="0">
-    <!-- Section 1: Programming Languages -->
-    <td align="center" width="330" valign="top" style="border: none;">
-      <p><strong>💻 Languages</strong></p>
-      <img src="https://skillicons.dev/icons?i=java,dart,js,mysql,cpp&perline=3" />
+    <!-- القسم الأول: لغات البرمجة -->
+    <td align="center" width="300" valign="top" style="border: none;">
+      <p><strong>💻 Programming Languages</strong></p>
+      <img src="https://skillicons.dev/icons?i=java,dart,js,mysql" />
     </td>
-    <!-- Section 2: Frameworks & Tools -->
-    <td align="center" width="330" valign="top" style="border: none;">
-      <p><strong>⚙️ Frameworks & Tools</strong></p>
-      <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb,git,github,figma,vscode&perline=4" />
+    <!-- القسم الثاني: الإطارات والتقنيات -->
+    <td align="center" width="350" valign="top" style="border: none;">
+      <p><strong>⚙️ Frameworks & Technologies</strong></p>
+      <img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb,git,github,figma&perline=3" />
     </td>
-    <!-- Section 3: Engineering & AI -->
-    <td align="center" width="330" valign="top" style="border: none;">
-      <p><strong>🧠 Engineering & AI</strong></p>
-      <img src="https://img.shields.io/badge/UML-0F172A?style=flat-square&logo=visualstudiocode&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/SDLC-2563EB?style=flat-square"/><br/>
-      <img src="https://img.shields.io/badge/REST_API-1D4ED8?style=flat-square"/><br/>
-      <img src="https://img.shields.io/badge/Deep_Learning-3B82F6?style=flat-square"/>
+    <!-- القسم الثالث: تحليل وتصميم النظم -->
+    <td align="center" width="350" valign="top" style="border: none;">
+      <p><strong>🧠 System Analysis & Design</strong></p>
+      <img src="https://img.shields.io/badge/Requirements_Engineering-0F172A?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SRS_Documentation-2563EB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/System_Design-1D4ED8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/UML_Modeling-0284C7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SDLC-3B82F6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/UI/UX_Design-60A5FA?style=flat-square"/>
+      <img src="https://img.shields.io/badge/REST_APIs-1E40AF?style=flat-square"/>
     </td>
   </tr>
 </table>
