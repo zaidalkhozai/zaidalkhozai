@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/header.png" />
+
 # Zaid Alkhozai
 
 ### Mobile Developer • Web Developer
