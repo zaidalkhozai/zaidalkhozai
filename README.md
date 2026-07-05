@@ -11,7 +11,7 @@ fontSize=48&
 fontColor=ffffff&
 animation=fadeIn&
 fontAlignY=40&
-desc=<s>Mobile%20Developer</s>%20%7C%20Web%20Developer&
+desc=~~Mobile%20Developer~~%20%7C%20Web%20Developer&
 descAlignY=58"/>
 
 </div>
