@@ -8,30 +8,29 @@
 
 ---
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
 
-    <td align="center" width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,dart,js,mysql"/>
+<img height="50" src="https://skillicons.dev/icons?i=java,dart,js,mysql"/>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
 
-### ⚙️ Frameworks & Technologies  
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb,git,github,figma,vscode"/>
+### ⚙️ Frameworks  
+<img height="50" src="https://skillicons.dev/icons?i=flutter,nodejs,mongodb,git"/>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
 
-### 🧠 Software Engineering  
+### 🧠 Engineering  
 <img src="https://img.shields.io/badge/UML-0F172A?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/SDLC-2563EB?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/SRS-1D4ED8?style=for-the-badge"/><br>
-<img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SRS-1D4ED8?style=for-the-badge"/>
 
 </td>
 
