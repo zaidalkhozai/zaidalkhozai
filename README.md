@@ -1,18 +1,8 @@
 <div align="center">
 
-<img width="100%" 
-src="https://capsule-render.vercel.app/api?
-type=waving&
-color=0:0F172A,50:2563EB,100:3B82F6&
-height=260&
-section=header&
-text=Zaid%20Alkhozai&
-fontSize=48&
-fontColor=ffffff&
-animation=fadeIn&
-fontAlignY=40&
-desc=Mobile%20Developer%20→%20Web%20Developer
-  descAlignY=58"/>
+# Zaid Alkhozai
+
+### Mobile Developer • Web Developer
 
 </div>
 
