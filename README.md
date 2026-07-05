@@ -1,10 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:3B82F6&height=260&section=header&text=Zaid%20Alkhozai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-### ~~Mobile Developer~~ Mobile & Web Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Software+That+Matters;Flutter+Developer;Web+Developer;AI-powered+Applications;Always+Learning+Something+New"/>
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?
+type=waving&
+color=0:0F172A,50:2563EB,100:3B82F6&
+height=260&
+section=header&
+text=Zaid%20Alkhozai&
+fontSize=48&
+fontColor=ffffff&
+animation=fadeIn&
+fontAlignY=40&
+desc=<s>Mobile%20Developer</s>%20%7C%20Web%20Developer&
+descAlignY=58"/>
 
 </div>
 
