@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1500&q=80" />
+<img width="100%" src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?auto=format&fit=crop&w=1500&q=80" />
 
 # Zaid Alkhozai
 
