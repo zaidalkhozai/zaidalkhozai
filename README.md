@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:3B82F6&height=220&section=header&text=Zaid%20Alkhozai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-### Mobile Developer
 
 </div>
 
