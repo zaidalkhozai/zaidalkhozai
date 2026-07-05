@@ -21,15 +21,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidalkhozai&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidalkhozai&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=FFFFFF" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidalkhozai&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidalkhozai&theme=tokyonight&hide_border=true&area=true&color=3B82F6" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F172A,50:2563EB,100:3B82F6&height=120"/>
 
 </div>
