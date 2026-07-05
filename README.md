@@ -1,109 +1,112 @@
 <div align="center">
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=zaidalkhozai&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+# Zaid Alkhozai
+### Lead Software Engineer • Mobile Specialist • AI Practitioner
+**Software Engineering at Umm Al-Qura University (Class of 2027)**
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Zaid+Alkhozai.;Software+Engineering+Student;Lead+Software+Engineer;Building+Impactful+Digital+Products." alt="Typing SVG" />
-
-<h3 align="center">Transforming complex problems into elegant, scalable software solutions.</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/zaid-alkhozai">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zaid.alkhozaiii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-alkhozai) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zaid.alkhozaiii@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zaidalkhozai)
 
 ---
 
-</div>
-
-### ✦ Executive Summary
-
-I am a Software Engineering student at Umm Al-Qura University (Expected 2027 | GPA: 3.7/4.0), specializing in Mobile Application Development and AI-integrated systems. Driven by a passion for system architecture and modern development frameworks, my objective is to architect and deploy world-class digital infrastructure. 
-
-**Current Focus:** 
-* **Enterprise Engineering:** Software Engineering Trainee at the Ministry of Hajj and Umrah (Digital Transformation Agency, IT Department).
-* **Technical Leadership:** Lead Software Engineer at Nomow Business Incubator (Wadi Makkah).
-
-<br/>
-
-### ✦ Technical Architecture & Stack
-
-<div align="center">
-
-#### Software Engineering & System Analysis
-<img src="https://img.shields.io/badge/System_Architecture-0D1117?style=flat-square&logo=diagramsdotnet&logoColor=58A6FF" alt="Architecture" />
-<img src="https://img.shields.io/badge/Requirements_Engineering-0D1117?style=flat-square&logo=read-the-docs&logoColor=58A6FF" alt="Requirements" />
-<img src="https://img.shields.io/badge/UML-0D1117?style=flat-square&logo=uml&logoColor=58A6FF" alt="UML" />
-<img src="https://img.shields.io/badge/SDLC-0D1117?style=flat-square&logo=agile&logoColor=58A6FF" alt="SDLC" />
-<img src="https://img.shields.io/badge/UI/UX_Design-0D1117?style=flat-square&logo=figma&logoColor=58A6FF" alt="Figma" />
-
-#### Mobile & Frontend Development
-<img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=58A6FF" alt="Dart" />
-<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=58A6FF" alt="Flutter" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=58A6FF" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58A6FF" alt="JS" />
-
-#### Backend, AI & Data
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF" alt="Node" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=58A6FF" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF" alt="SQL" />
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=postman&logoColor=58A6FF" alt="REST" />
-<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=flat-square&logo=openai&logoColor=58A6FF" alt="AI" />
+"Engineering is not just about writing code; it's about architecting solutions that scale and solve human problems."
 
 </div>
 
-<br/>
+## 🧬 Executive Profile
 
-### ✦ Major Achievements & Engineering Milestones
+I am a Software Engineering student and Lead Engineer specializing in high-performance **Mobile Application Development** and **AI-integrated systems**. Currently driving digital transformation initiatives at the **Ministry of Hajj and Umrah** and leading engineering efforts at **Nomow Business Incubator**.
 
-* **VitaLink (AI-Powered Healthcare):** Led development to secure **Top 3 Finalist** among 2,000+ teams at the Harvard Health Systems Innovation Hackathon. Achieved **Top 40** among 250+ teams at GOSHATHON.
-* **NBTKR Platform:** Engineered a dynamic platform connecting innovators with developers to transform concepts into scalable tech products. Built under the supervision of the Saudi Data and AI Authority (SDAIA) during the Vibe Coding Bootcamp.
-* **TechFit Ecosystem (Graduation Project):** Architected an all-in-one comprehensive fitness platform featuring an AI Trainer, algorithmic workout and nutrition planning, and seamless smartwatch integration.
-
-<br/>
-
-### ✦ Professional Certifications & Leadership
-
-| Technical Certifications | Extracurricular Leadership |
-| :--- | :--- |
-| • Vibe Coding Bootcamp (SDAIA)<br>• Fundamentals of Deep Learning (NVIDIA)<br>• Artificial Intelligence Program (IBM)<br>• AI Education Program (SenseTime)<br>• Technology Quotient Plan (BSF) | • **Deputy Head of Membership Affairs**<br>  Talented Club, Umm Al-Qura University<br><br>• **Lead Software Engineer**<br>  Nomow Business Incubator |
-
-<br/>
-
-### ✦ GitHub Analytics & Activity
-
-<div align="center">
-
-<!-- Trophies -->
-<a href="https://github.com/zaidalkhozai">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaidalkhozai&theme=gitdimmed&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</a>
-
-<br/><br/>
-
-<!-- Stats & Streak Side-by-Side -->
-<img src="https://github-readme-stats.vercel.app/api?username=zaidalkhozai&show_icons=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidalkhozai&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&background=transparent" width="48%" alt="GitHub Streak" />
-
-<br/>
-
-<!-- Languages & Activity Graph -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidalkhozai&layout=compact&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true" width="48%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidalkhozai&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" width="48%" alt="Activity Graph" />
-
-</div>
-
-<br/>
+*   **GPA:** 3.7 / 4.0
+*   **Focus:** Scalable Mobile Architecture, AI Implementation, System Design.
+*   **Current Pursuit:** Building NBTKR and TechFit to redefine the Saudi tech ecosystem.
 
 ---
 
+## 🚀 Engineering Impact
+
+### 🏆 International Recognition
+*   **Harvard Health Systems Innovation Hackathon:** Top 3 Finalist (out of 2,000+ teams) for **VitaLink**, an AI-powered healthcare solution.
+*   **GOSHATHON:** Top 40 Finalist (out of 250+ teams) globally.
+
+### 🏗️ Notable Projects
+*   **NBTKR Platform:** A strategic platform built under **SDAIA** supervision connecting innovators with developers to accelerate the Saudi digital economy.
+*   **TechFit:** A comprehensive AI-driven health ecosystem integrating real-time trainer feedback and smartwatch synchronization.
+*   **VitaLink:** Architected an AI-based solution to bridge gaps in modern healthcare delivery systems.
+
+---
+
+## 🛠️ Technical Stack
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Programming & Frameworks</h4>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=googlecloud&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Software Engineering & Design</h4>
+      <img src="https://img.shields.io/badge/System_Analysis-007ACC?style=flat-square" />
+      <img src="https://img.shields.io/badge/SDLC-007ACC?style=flat-square" />
+      <img src="https://img.shields.io/badge/UML-007ACC?style=flat-square" />
+      <br />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/UI/UX-FF61F6?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎖️ Professional Certifications
+*   **SDAIA:** Vibe Coding Bootcamp Graduate.
+*   **NVIDIA:** Fundamentals of Deep Learning.
+*   **IBM:** Artificial Intelligence Professional Program.
+*   **BSF:** Technology Quotient (TQ) Plan.
+*   **SenseTime:** AI Education Program.
+
+---
+
+## 📊 Engineering Metrics
+
 <div align="center">
-  <i>"Good architecture makes the system easy to understand, easy to develop, easy to maintain, and easy to deploy."</i>
-  <br/><br/>
-  <b><a href="mailto:zaid.alkhozaiii@gmail.com" style="color: #58A6FF; text-decoration: none;">Let's build something extraordinary.</a></b>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidalkhozai&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=555" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidalkhozai&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=555" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidalkhozai&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" />
+</div>
+
+---
+
+## 📜 Leadership & Experience
+*   **Lead Software Engineer** | Nomow Business Incubator (Wadi Makkah)
+*   **Digital Transformation Intern** | Ministry of Hajj and Umrah (IT Dept)
+*   **Deputy Head of Membership** | Talented Club, Umm Al-Qura University
+
+---
+
+## 📫 Connect & Collaborate
+I am always open to discussing advanced system architectures, AI integration, or high-scale mobile development.
+
+- **Location:** Saudi Arabia 🇸🇦
+- **Portfolio/GitHub:** [github.com/zaidalkhozai](https://github.com/zaidalkhozai)
+- **Professional Network:** [linkedin.com/in/zaid-alkhozai](https://linkedin.com/in/zaid-alkhozai)
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=zaidalkhozai&color=007ACC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br />
+  <sub>© 2024 Zaid Alkhozai. Built with precision and purpose.</sub>
 </div>
