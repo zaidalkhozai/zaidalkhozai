@@ -33,19 +33,7 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zaidalkhozai&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidalkhozai&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
+<br>
 
 <div align="center">
 
