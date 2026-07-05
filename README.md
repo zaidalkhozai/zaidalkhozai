@@ -8,13 +8,8 @@
 
 ---
 
-<div align="center">
-
 ## Languages • Frameworks & Technologies • Software Engineering
 
-<img src="https://skillicons.dev/icons?i=java,dart,js,mysql,flutter,nodejs,mongodb,git,github,figma,vscode"/>
-
-</div>
 
 ---
 
